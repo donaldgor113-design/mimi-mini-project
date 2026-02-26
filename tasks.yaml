@@ -1,0 +1,5 @@
+docs: 
+  name: Documentation
+  description: Simple project config
+  action: echo
+  message: Hello from Mimi mini-project
